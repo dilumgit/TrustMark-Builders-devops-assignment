@@ -1,4 +1,5 @@
 <?php
+require_once _DIR_ . 'db.php';
 require "db.php";
 $success = false;
 

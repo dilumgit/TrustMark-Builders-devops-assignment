@@ -6,6 +6,7 @@
 </head>
 <body>
 
+<header class="header">
     <h1>TrustMark Builders</h1>
     <nav>
         <a href="index.php">Home</a>
@@ -14,7 +15,8 @@
     </nav>
 </header>
 
-
+<!-- HERO SECTION -->
+<section class="hero">
     <img src="images/3.jpg" alt="Construction site">
     <div class="hero-text">
         <h2>Building Strong Foundations</h2>
@@ -24,7 +26,8 @@
 </section>
 
 <!-- SERVICES -->
-
+<section class="services">
+    <h2>Our Services</h2>
 
     <div class="service-grid">
         <div class="service-card">

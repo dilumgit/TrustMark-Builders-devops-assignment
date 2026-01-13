@@ -1,6 +1,6 @@
 <?php
-die("CONTACT.PHP UPDATED");
-require_once(__DIR__ . '/db.php');
+
+require_once dirname(__FILE__) . '/db.php';
 
 
 

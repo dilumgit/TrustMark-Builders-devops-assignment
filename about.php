@@ -6,7 +6,7 @@
 </head>
 <body>
 
- class="header">
+<header class="header">
     <h1>Our Services</h1>
     <nav>
         <a href="index.php">Home</a>
@@ -18,7 +18,8 @@
 <section class="about">
     <img src="images/5.jpg" alt="Construction work">
 
-
+    <div class="about-text">
+        <h2>Trusted Construction Experts</h2>
         <p>
             We deliver high-quality residential and commercial construction
             projects with skilled professionals and modern techniques.

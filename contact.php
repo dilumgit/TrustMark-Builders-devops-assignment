@@ -1,5 +1,8 @@
 <?php
-require_once _DIR_ . '/db.php';
+die("CONTACT.PHP UPDATED");
+require_once(__DIR__ . '/db.php');
+
+
 
 $success = false;
 

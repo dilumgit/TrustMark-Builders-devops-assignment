@@ -1,6 +1,6 @@
 <?php
-require_once _DIR_ . 'db.php';
-require "db.php";
+require_once _DIR_ . '/db.php';
+
 $success = false;
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {

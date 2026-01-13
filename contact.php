@@ -2,7 +2,7 @@
 require "db.php";
 $success = false;
 
- == "POST") {
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $name = $_POST["name"];
     $phone = $_POST["phone"];
     $email = $_POST["email"];
@@ -17,7 +17,8 @@ $success = false;
 }
 ?>
 
-
+<!DOCTYPE html>
+<html>
 <head>
     <title>Contact Us</title>
     <link rel="stylesheet" href="style.css">
@@ -33,7 +34,7 @@ $success = false;
     </nav>
 </header>
 
-"contact-banner">
+<section class="contact-banner">
     <img src="images/3.jpg" alt="Construction site">
 </section>
 

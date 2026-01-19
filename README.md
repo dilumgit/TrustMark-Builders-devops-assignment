@@ -39,5 +39,7 @@ Debugged and fixed SQL queries
 
 ## Build status badges
 
-![CI Pipeline](https://github.com/dilumgit/TrustMark-Builders-devops-assignment/workflows/CI%20Pipeline/badge.svg)
-![Deploy](https://github.com/dilumgit/TrustMark-Builders-devops-assignment/workflows/Deploy%20to%20Production/badge.svg)
+
+![CI Pipeline](https://github.com/dilumgit/TrustMark-Builders-devops-assignment/actions/workflows/ci.yml/badge.svg?branch=main)
+
+![Deploy](https://github.com/dilumgit/TrustMark-Builders-devops-assignment/actions/workflows/deploy.yml/badge.svg?branch=main)

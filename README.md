@@ -1,17 +1,14 @@
 ## All student names exactly as in LMS
-
-B.C.N.D.D.Karunarathna
-K.H.M.S.Nikeshala
+- B.C.N.D.D. Karunarathna
+- K.H.M.S. Nikeshala
 
 ## All student IDs
-
-ITBIN-2313-0048
-ITBIN-2313-0070
+- ITBIN-2313-0048
+- ITBIN-2313-0070
 
 ## Role assignments
-
-ITBIN-2313-0048 - Devops 
-ITBIN-2313-0070 - Fullstack
+- ITBIN-2313-0048 – DevOps
+- ITBIN-2313-0070 – Full Stack
 
 ## Live deployment URL
 
